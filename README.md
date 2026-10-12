@@ -47,7 +47,7 @@ This project analyses customer shopping behaviour to understand purchasing patte
 Python and pandas are used to inspect the dataset, check data quality, explore customer attributes, and support the analysis.
 
 ## Power BI Dashboard
-The planned dashboard will present customer and product metrics, purchasing patterns, ratings, and shopping preferences through interactive charts and filters.
+The Power BI dashboard provides an interactive view of customer purchasing behaviour, product performance, ratings, discount usage, and subscription patterns.
 
 
 <img width="1572" height="845" alt="image" src="https://github.com/user-attachments/assets/37d1295f-011a-4913-b790-8f8be4cd2909" />
