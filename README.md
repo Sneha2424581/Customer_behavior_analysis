@@ -50,6 +50,8 @@ Python and pandas are used to inspect the dataset, check data quality, explore c
 The planned dashboard will present customer and product metrics, purchasing patterns, ratings, and shopping preferences through interactive charts and filters.
 
 
+<img width="1572" height="845" alt="image" src="https://github.com/user-attachments/assets/37d1295f-011a-4913-b790-8f8be4cd2909" />
+
 
 ## Key Findings
 
